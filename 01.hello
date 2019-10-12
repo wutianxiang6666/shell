@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#
+#encoding:utf8
+#author:wutianxiang6666
+#date:2019/10/12
+echo hello world
